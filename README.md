@@ -1,10 +1,11 @@
 # Oblata-Display
 
 Oblata Display is a high-contrast serif typeface with a subtle classical touch and expressive ligatures.
-Designed by Astrid Schäfer, it’s ideal for headlines, logos, book covers, and other attention-grabbing text.
+Designed by Astrid Schäfer, it’s ideal for headlines, logos, book covers, and other attention-grabbing text. 
 
-The font includes standard Latin characters, ligatures, and a carefully crafted kerning system.
+The font includes standard Latin characters, ligatures, and a kerning system.
 Hinting has been intentionally left out to preserve the elegance of the letterforms at display sizes.
+Tested with FontBakery – all critical checks passed.
 
 # License
 This font project is licensed under the SIL Open Font License, Version 1.1.
