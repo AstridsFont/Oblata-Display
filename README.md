@@ -10,11 +10,11 @@ Hinting has been intentionally left out to preserve the elegance of the letterfo
 This font project is licensed under the SIL Open Font License, Version 1.1.
 More information: https://openfontlicense.org
 
-#Designer
+# Designer
 Astrid Schäfer – Germany
 → https://github.com/AstridsFont
 
-#Usage
+# Usage
 You are free to use, modify, and redistribute the font – even in commercial projects – as long as you follow the terms of the license.
 The font may not be sold on its own, but can be bundled with software or design assets.
 
