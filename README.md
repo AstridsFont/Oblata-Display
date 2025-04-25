@@ -12,7 +12,6 @@ This font project is licensed under the SIL Open Font License, Version 1.1.
 More information: https://openfontlicense.org
 
 Redistribution Notice:
-This font is released under the SIL Open Font License 1.1.
 Please distribute it only with the complete license file and credit to the designer.
 Abusive or incomplete redistributions harm the spirit of free typography.
 
