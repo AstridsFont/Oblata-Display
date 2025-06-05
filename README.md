@@ -17,7 +17,7 @@ Abusive or incomplete redistributions harm the spirit of free typography.
 
 # Designer
 Astrid Schäfer – Germany
-→ https://github.com/AstridsFont
+→ [https://astridsfont.github.io]
 
 # Usage
 You are free to use, modify, and redistribute the font – even in commercial projects – as long as you follow the terms of the license.
